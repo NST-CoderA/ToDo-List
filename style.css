@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+}
+h1 , h2{
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+    margin-bottom: 0px;
+    background-color: yellow;
+    border-radius: 10px;
+    width: 200px;
+}
+h2{
+    background-color: deeppink;
+    width: 100px;
+    border-radius: 10px;
+}
+#body{
+    width: 800px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: cyan;
+
+}
+#iteminput{
+    width: 200px;
+    height: 20px;
+}
+button{
+    background-color: black;
+    color: white;
+}
